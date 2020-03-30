@@ -1,0 +1,4 @@
+pears 1
+peaches 1
+strawberries 2
+starfruit 1
